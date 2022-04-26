@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @O-Dani
-- 👀 I’m interested in Back-end
-- 🌱 I’m currently learning Python,JavaScript and C
+- 👀 I’m interested in Front-end
+- 🌱 I’m currently learning CSS,JavaScript and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
